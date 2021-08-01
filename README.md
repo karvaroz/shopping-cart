@@ -2,6 +2,8 @@
 
 Un sencillo ejemplo de carrito de compras
 
+https://karvaroz.github.io/shopping-cart/
+
 ## Descripción
 
 Proyecto creado con HTML, CSS y Javascript
